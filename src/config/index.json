@@ -1,0 +1,158 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Specialized",
+      "href": "specialized"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Bridging Research and ",
+    "subtitle": "Real-World Impact",
+    "description": "Greenisms is a place for us to share science, research, sustainability news and opportunities to grow and learn together. To create pathways for sustainable change.",
+    "img": "/assets/images/homepage.jpg",
+    "primaryAction": {
+      "text": "Schedule a Demo",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:juanbr.nerd@gmail.com"
+    }
+  },
+  "product": {
+    "title": "We Specialized In",
+    "items": [
+      {
+        "title": "Specialized Research",
+        "description": "Utilizing libraries and transformative technologies to pioneer harmony between innovation and environmental responsibility, fostering a world where progress preserves our planet's vitality and makes a difference in the economy.",
+        "img": "/assets/images/specialized research/1.png"
+      },
+      {
+        "title": "Insightful Writing",
+        "description": "Transforming ideas into compelling narratives, our writing and content development service crafts engaging stories that resonate with audiences around the world. Content that speaks with optimism, ripe with opportunity.",
+        "img": "/assets/images/insightful writing/1.png"
+      },
+      {
+        "title": "Environmental Consulting",
+        "description": "Our environmental consulting service offers expertise in navigating complex regulatory systems and ecological challenges, providing tailored solutions for sustainable development and conservation. Translating technical information for the average reader.",
+        "img": "/assets/images/environmental consulting/1.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Features",
+    "subtitle": "All the best technologies out there!",
+    "description": "The environment you surround yourself with is directly responsible for your perspective, your attitude, and your development. To develop holistically, it is important to draw experience from the perspectives of others. Awareness and consideration of developing technologies creates opportunities to grow closer together. Here, our aim is to create pathways to sustainable change.",
+    "items": [
+      {
+        "name": "Creative",
+        "description": "Igniting Imagination to Drive Impactful Change.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Strategic",
+        "description": "Crafting Tailored Strategies for Lasting Success.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Innovative",
+        "description": "Pioneering New Paths with Bold Solutions.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Visionary Thinking",
+        "description": "Envisioning the Future to Transform Today.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Privacy policy",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Terms of use",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Contact",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "More",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/greenisms",
+      "twitter": "https://twitter.com/greenisms",
+      "linkedin": "https://www.linkedin.com/in/greenisms/"
+    }
+  }
+}
